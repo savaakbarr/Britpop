@@ -1,0 +1,205 @@
+/*2372036 Muhammad Sava Akbar Bastaman Kelas B*/
+nav{
+    font-size: large;
+    font-family: 'Abril Fatface', serif;
+    margin: 30px;
+    justify-content: center;
+    position: sticky;   
+    background-image: url(https://cdn.pixabay.com/photo/2012/04/10/16/14/union-jack-26119_1280.png);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.bgcon{
+    background-image:url(https://i.etsystatic.com/29630495/r/il/2e726b/3066830514/il_794xN.3066830514_4d4c.jpg);
+    image-orientation: auto;
+    background-attachment:scroll;
+    background-repeat: repeat;
+}
+.container {
+    background-size: cover;
+    max-width: 100%;
+    object-fit: cover;
+    height: 50vw;
+    text-align: center;
+}
+.img-wrap {
+    background-color: #efe;
+    height: 100%;
+    display: inline-block;
+    position:relative;
+}
+  
+.imgc {
+    width: 1325px;
+    height:100%;
+    display: block;
+    object-fit: cover;
+    object-position: bottom;
+    filter: brightness(50%);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  
+.caption {
+    font-weight: 5000;
+    position:absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin-bottom: 15%;
+    color: #fff;
+}
+.cbg{
+    background-image: url(https://cdn.pixabay.com/photo/2012/04/10/16/14/union-jack-26119_1280.png);
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+.warnafontnav{
+    color: white;
+}
+.carousel{
+ width: 50%;
+ margin: auto;
+}
+h2{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+a:hover a:active{
+color: white;
+}
+.roses{
+    width: 250x;
+    height: 375px;
+    border: 75px;
+    border-style: solid;
+    border-color: white;
+}
+.card-img-top{
+    border: 75px;
+    border-style: solid;
+    border-color: white;
+}
+.kecil{
+    border: 75px;
+    border-style: solid;
+    border-color: white;
+    margin: auto;
+    background-color: gray;
+    text-align: center;
+    justify-content: center;
+    padding-top: 3%;
+}
+.kecil{
+    background-image: url(https://cdn.pixabay.com/photo/2012/04/10/16/14/union-jack-26119_1280.png);
+    image-orientation: 1turn;
+    background-size: 105%;
+    background-repeat: repeat;
+}
+    div{
+        justify-content: center;
+    }
+    a:link, a:visited {
+        background-color: transparent;
+        color: white;
+        padding: 10px 55px;
+        text-align: center;
+        text-decoration:none;
+        display: inline-block;
+        border-style: solid;
+      }
+      a:hover, a:active {
+        background-color: white;
+        color: black;
+      }
+      .ml7 {
+        position: relative;
+        font-weight: 900;
+        font-size: 3.7em;
+      }
+      .ml7 .text-wrapper {
+        position: relative;
+        display: inline-block;
+        padding-top: 0.2em;
+        padding-right: 0.05em;
+        padding-bottom: 0.1em;
+        overflow: hidden;
+      }
+      .ml7 .letter {
+        transform-origin: 0 100%;
+        display: inline-block;
+        line-height: 1em;
+      }
+      @media screen and (max-width: 650px) {
+        .column {
+          width: 100%;
+          display: block;
+        }
+      }
+      .about-us{
+        height: 100vh;
+        width: 100%;
+        padding: 90px 0;
+        background: #ddd;
+      }
+      .pic{
+        height: auto;
+        width:  302px;
+      }
+      .about{
+        width: 1130px;
+        max-width: 85%;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+      }
+      .text{
+        width: 540px;
+      }
+      .text h2{
+        font-size: 90px;
+        font-weight: 600;
+        margin-bottom: 10px;
+      }
+      .text h5{
+        font-size: 22px;
+        font-weight: 500;
+        margin-bottom: 20px;
+      }
+      .sociallinks{
+        display: inline-block;
+        text-align: center;
+        padding-top: 25px;
+        border-radius: 1000px;
+        font-size: 23px;
+    }
+      .text p{
+        font-size: 18px;
+        line-height: 25px;
+        letter-spacing: 1px;
+      }
+      .data{
+        margin-top: 30px;
+      }
+      .hire{
+        font-size: 18px;
+        background: #4070f4;
+        color: #fff;
+        text-decoration: none;
+        border: none;
+        padding: 8px 25px;
+        border-radius: 6px;
+        transition: 0.5s;
+      }
+      .hire:hover{
+        background: #000;
+        border: 1px solid #4070f4;
+      }

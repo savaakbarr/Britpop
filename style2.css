@@ -1,0 +1,20 @@
+/*2372036 Muhammad Sava Akbar Bastaman Kelas B*/
+p{
+    padding-top: 25px;
+    padding-left: 450px;
+    padding-right: 450px;
+    text-align: justify;
+}
+h5{
+    padding-top: 50px;
+    text-align: justify;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
+figcaption{
+    text-align: center;
+}

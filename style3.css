@@ -1,0 +1,84 @@
+/*2372036 Muhammad Sava Akbar Bastaman Kelas B*/
+nav{
+    font-size: large;
+    font-family: 'Abril Fatface', serif;
+    margin: 30px;
+    justify-content: center;
+    position: sticky;   
+    background-image: url(https://cdn.pixabay.com/photo/2012/04/10/16/14/union-jack-26119_1280.png);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+boday{
+    background-image:url(images/Download\ premium\ image\ of\ Blue\ oil\ paint\ textured\ background\ about\ oil\ paint\ texture\,\ blue\ texture\,\ grunge\ blue\,\ oil\ painting\ background\,\ and\ blue\ oil\ painting\ 895328.jpg) ;
+}
+.bodyblur{
+    background-image:url(images/paint_texture2178\ -\ Design\ Your\ Way.jpg) ;
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: justify;
+}
+aside{
+flex: 60%;
+padding: 20px; 
+}
+article{
+flex: 40%;
+padding: 20px;
+}
+.imgoasis{
+    width: 450px;
+    height: 450px;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 0 0 25px black;
+    margin-left: 50px;
+}
+a:link, a:visited {
+    color: black;
+    padding: 10px 55px;
+    text-align: center;
+    text-decoration:none;
+  }
+  a:hover, a:active {
+    color: black;
+  }
+.sociallinks{
+    display: inline-block;
+    text-align: center;
+    padding-top: 25px;
+    border-radius: 1000px;
+    font-size: 23px;
+}
+li{
+    list-style: none;
+}
+.column {
+    float: left;
+    width: 50%;
+    padding: 5px;
+  }
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .row {
+    padding-left: 55px;
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+    padding: 5px;
+  }
+figcaption{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    padding-bottom: 30px;
+}
